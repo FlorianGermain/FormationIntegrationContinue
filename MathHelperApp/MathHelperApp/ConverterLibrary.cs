@@ -11,8 +11,7 @@ namespace MathHelperApp
 
         public int GetInt(string nombre)
         {
-            return int.Parse(nombre) + 1; // erreur volontaire ici
-        }
+            return int.Parse(nombre) ;        }
 
 
 
